@@ -1,0 +1,286 @@
+/* .container-nav {
+  background: url('../img/golf3.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 800px;
+  opacity: 0.6;
+
+
+
+
+} */
+/* .my-col1 {
+  border-top: 15px solid black;
+  border-left: 5px solid black;
+  border-bottom: 15px solid black;
+
+
+} */
+
+/* .my-col2 {
+  border: 1px solid yellow;
+} */
+
+/* .my-row1 {
+  border: 1px solid red;
+} */
+
+
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.my-container1 {
+  margin-top: 0px;
+}
+
+#nav-tab {
+  font-size: 20px;
+  background-color:rgb(26, 26, 26) ;
+  /* color: white; */
+}
+
+#nav-home-tab {
+/* background-color: rgb(26, 26, 26); */
+
+}
+
+#nav-profile-tab {
+
+
+}
+
+.my-row1 {
+  padding: 30px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+
+}
+
+.mypopover {
+  margin-top:30px;
+  margin-bottom:10px;
+
+}
+
+#alert {
+  background-color: rgba(67, 188, 255, 0.1);
+
+}
+
+#getting-started {
+  font-size: 50px;
+}
+
+#map {
+  width: 100%;
+  /* min-width: 1000px;
+  min-height: 700px;
+  max-height: 800px; */
+}
+
+#eventimg {
+  /* height: 450px; */
+}
+
+
+
+header #inner_header_post_thumb {
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  background-image: url("../img/golf3.jpg");
+  border-bottom: 4px solid #222;
+  margin-bottom: 0px;
+  /* padding-bottom: 30px; */
+
+}
+
+header #inner_header_post_thumb .dark_overlay {
+  position: relative;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.55);
+  padding-bottom: 60px;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt {
+  padding-top: 150px;
+  padding-bottom: 250px;
+  color: #ffffff;
+  text-align:center;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt h1 {
+  font-size: 40px;
+  color: #ffffff;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt h3 {
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt p {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt p strong {
+  font-weight: 700;
+}
+
+#mycarousel-inner {
+  height: 529px;
+}
+
+#carousel-item1 {
+height:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a {
+    color: white;
+
+}
+
+
+
+
+.my-row3 {
+  background-color: grey;
+  margin-top: 0px;
+}
+
+
+
+.alert {
+
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+
+
+
+
+
+/* footer */
+
+#footercolor {
+  color: #007bff;
+}
+
+
+#footer_coms {
+    text-align: right;
+    padding: 0px 0 10px 0;
+    background-color: #1A1A1D;
+    margin-top: 0px;
+}
+
+#footer_coms {
+    background: #1A1A1A;
+}
+
+#footer_coms, #footer_coms .menu a, #f_social_icons a, #footer_coms #to_top_img {
+    color: #DDDDDD;
+}
+
+#footer_coms {
+    border-top: 1px solid #1A1A1A;
+}
+.wrapper {
+    width: 1170px;
+    padding: 0 0px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+.f_menu_left {
+    float: left;
+    height: 32px;
+    line-height: 32px;
+}
+
+
+
+.f_menu_left {
+    float: left;
+    height: 32px;
+    line-height: 32px;
+}
+#footer_coms .f_si_right {
+    float: right;
+    padding-left: 30px;
+}
+#f_social_icons {
+    padding: 0;
+    float: right;
+}
+
+#lin {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+#yt {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+#twitter {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+
+}

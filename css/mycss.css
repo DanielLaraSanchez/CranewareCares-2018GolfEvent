@@ -1,0 +1,504 @@
+
+
+body {
+  margin: 0px;
+  background: url("../img/waterpipe12.png")no-repeat center center fixed;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover
+
+}
+
+.my-row {
+
+  padding-top: 15px;
+  padding-bottom: 265px;
+  margin-bottom: 0px;
+}
+.my-colu {
+  background-color: lightgrey;
+  margin-bottom: 70px;
+  margin-top: 120px;
+  border: 2px solid darkgrey;
+  padding-bottom: 70px;
+}
+
+#navbar-collapse {
+  text-align: center;
+  justify-content: center;
+}
+.my-row3 {
+  margin-top: 0px;
+  border: 1px solid blue;
+}
+
+#container-4 {
+  background-color: darkgrey;
+}
+
+#carousel-item {
+  max-height: 1000px;
+}
+
+
+
+
+
+header #inner_header_post_thumb {
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  background-image: url("../img/turnberry.jpg");
+  border-bottom: 4px solid #222;
+  margin-bottom: 60px;
+}
+
+header #inner_header_post_thumb .dark_overlay {
+  position: relative;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt {
+  padding-top: 150px;
+  padding-bottom: 250px;
+  color: #ffffff;
+  text-align:center;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt h1 {
+  font-size: 40px;
+  color: #ffffff;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt h3 {
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt p {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+header #inner_header_post_thumb .dark_overlay .container .header-txt p strong {
+  font-weight: 700;
+}
+
+
+#accordion {
+  max-width: 400px;
+  min-width: 250px;
+  margin-left: 0px;
+  margin-top: 100px;
+}
+.my-card {
+  height: 250px;
+  width: 250px;
+}
+.img-fluid {
+  height: 300px;
+  margin-top: 50px;
+  width: 100%;
+}
+
+
+
+#container-4 {
+  background-color: darkgrey;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+
+}
+
+
+#jumbotron {
+margin-top: 10px;
+margin-bottom: 10px;
+border-bottom: 1px solid darkgrey;
+
+}
+
+
+#jumbotron1 {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  max-height: auto;
+  border-bottom: 1px solid darkgrey;
+}
+
+#jumbotron3 {
+margin-top: 100px;
+margin-bottom: 50px;
+border-bottom: 1px solid darkgrey;
+margin-bottom: 10px;
+
+}
+
+.my-container {
+  margin-top: 0px;
+  background-color: lightgrey;
+  height: auto;
+
+}
+.nueva-card {
+  margin-top: 40px;
+}
+.about-box {
+  padding-top: 70px;
+  padding-right: 20px;
+  padding-left: 20px;
+  color: antiquewhite;
+  padding-bottom: 0px;
+  margin-bottom: 30px;
+
+}
+
+
+
+.widget_text {
+  padding-top: 30px;
+  color: white;
+}
+#getting-started {
+  font-size: 90px;
+}
+
+#footercolor {
+  color: #007bff;
+}
+
+
+
+
+#footer_coms {
+    text-align: left;
+    padding: 30px 0 30px 0;
+    background-color: #1A1A1D;
+}
+
+#footer_coms {
+    background: #1A1A1A;
+}
+
+#footer_coms, #footer_coms .menu a, #f_social_icons a, #footer_coms #to_top_img {
+    color: #DDDDDD;
+}
+
+#footer_coms {
+    border-top: 1px solid #1A1A1A;
+}
+.wrapper {
+    width: 1170px;
+    padding: 0 0px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+.f_menu_left {
+    float: left;
+    height: 32px;
+    line-height: 32px;
+}
+
+
+
+.f_menu_left {
+    float: left;
+    height: 32px;
+    line-height: 32px;
+}
+#footer_coms .f_si_right {
+    float: right;
+    padding-left: 30px;
+}
+#f_social_icons {
+    padding: 0;
+    float: right;
+}
+
+#lin {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+#yt {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+#twitter {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+
+}
+
+
+.form-register{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+
+    font: bold 14px sans-serif;
+    text-align: center;
+}
+
+.form-register-with-email{
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 130px;
+    text-align: center;
+}
+
+.form-register-with-email .form-white-background{
+    width: 570px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+    padding: 60px 80px;
+    margin-bottom: 35px;
+}
+
+.form-register-with-email .form-row{
+    text-align: left;
+    margin-bottom: 23px;
+}
+
+.form-register-with-email .form-title-row{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.form-register-with-email h1{
+    display: inline-block;
+    box-sizing: border-box;
+    color:  #4c565e;
+    font-size: 24px;
+    padding: 0 20px 15px;
+    border-bottom: 2px solid #6caee0;
+    margin: 0;
+}
+
+.form-register-with-email .form-row > label span{
+    display: inline-block;
+    box-sizing: border-box;
+    color:  #5f5f5f;
+    width: 125px;
+    text-align: right;
+    padding-right: 25px;
+}
+
+.form-register-with-email input{
+    color:  #5f5f5f;
+    box-sizing: border-box;
+    width: 230px;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+    padding: 12px 18px;
+    border: 1px solid #dbdbdb;
+}
+
+.form-register-with-email .form-checkbox input{
+    margin-left: 128px;
+    margin-right: 10px;
+    width: auto;
+    vertical-align: top;
+}
+
+.form-register-with-email .form-row .form-checkbox span{
+    font-size: 12px;
+    font-weight: normal;
+    display: inline-block;
+    text-align: left;
+    width: 220px;
+    margin: 0;
+}
+
+.form-register-with-email .form-checkbox span a{
+    text-decoration: none;
+    color:  #6caee0;
+}
+
+.form-register-with-email button{
+    display: block;
+    border-radius: 2px;
+    background-color:  #6caee0;
+    color: #ffffff;
+    font-weight: bold;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+    padding: 15px 35px;
+    border: 0;
+    margin: 55px auto 0;
+    cursor: pointer;
+}
+
+.form-register-with-email .form-log-in-with-existing{
+    text-decoration: none;
+    padding: 4px 8px;
+    font-weight: normal;
+    color: #7b9d62;
+    background-color: #d6f0c3;
+}
+
+
+
+.form-sign-in-with-social .form-title{
+    box-sizing: border-box;
+    color:  #4c565e;
+    font-size: 24px;
+    padding: 15px 20px;
+    border-bottom: 2px solid #6caee0;
+}
+
+.form-sign-in-with-social .form-google-button{
+    color:  #ffffff;
+    display: block;
+    width: 145px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 40px;
+    background-color:  rgba(222, 110, 60, 0.9);
+    box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    margin: 8px auto;
+    text-decoration: none;
+}
+
+.form-sign-in-with-social .form-facebook-button{
+    color:  #ffffff;
+    display: block;
+    width: 145px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 40px;
+    background-color:  rgba(75, 136, 194, 0.9);
+    box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    margin: 8px auto;
+    text-decoration: none;
+}
+
+.form-sign-in-with-social .form-twitter-button{
+    color:  #ffffff;
+    display: block;
+    width: 145px;
+    height: 40px;
+    font-size: 12px;
+    line-height: 40px;
+    background-color:  rgba(123, 195, 226, 0.9);
+    box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    margin: 8px auto;
+    text-decoration: none;
+} */
+
+/*	Making the form responsive. Remove these media queries
+    if you don't need the form to work on mobile devices. */
+
+@media (max-width: 900px) {
+
+    .form-register{
+        margin: 20px auto;
+    }
+
+    .form-register-with-email{
+        position: relative;
+        display: block;
+        margin: 0;
+    }
+
+    .form-register-with-email .form-white-background{
+        margin: 0 auto 32px;
+    }
+
+    /* .form-register-with-email:after{
+        bottom: -80px;
+        left: 50%;
+        margin-left: -25px;
+    } */
+
+    .form-sign-in-with-social {
+        margin-top: 105px;
+    }
+
+}
+
+@media (max-width: 600px) {
+
+    .form-register-with-email .form-white-background{
+        width: 300px;
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .form-register-with-email .form-row > label span{
+        display: block;
+        text-align: left;
+        padding: 0 0 10px;
+    }
+
+    .form-register-with-email input{
+        display: block;
+        margin: 0 auto;
+    }
+
+    .form-register-with-email .form-checkbox input{
+        display: inline-block;
+        margin-left: 0;
+    }
+
+    .form-register-with-email .form-checkbox span{
+        width: 200px !important;
+    }
+
+    /* .form-register-with-email:after{
+        bottom: -80px;
+        left: 50%;
+        margin-left: -25px;
+    } */
+
+}
+
+
+
+
+
+
+.centerBlock {
+  display: table;
+  margin: auto;
+}
